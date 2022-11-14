@@ -1,0 +1,16 @@
+{
+  "name": "http-server-challenge-rrc",  
+  "version": "1.0.0",
+  "description": "http node challenge",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Correia",
+  "license": "MIT"
+}
